@@ -1,0 +1,1 @@
+There are already widely available encoding implementations for generating QR code. However, for a stand-alone implementation in JavaScript, there are not many. This project implements QRcode encoding in Javascript from the ground up. Starting from Galois Field arithmetic, then Reed-Solomon error correction coding, then the 2-D QR code pattern.
